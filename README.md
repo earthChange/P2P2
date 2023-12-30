@@ -1,4 +1,9 @@
-# p2p-chat
+# P2P2
+
+This is a fork of https://github.com/michal-wrzosek/p2p-chat
+
+# Original README follows:
+
 ![npm](https://img.shields.io/npm/v/p2p-chat)
 
 p2p chat on WebRTC with additional AES256 encryption and file sharing (no signaling server required)
